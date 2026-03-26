@@ -2,16 +2,16 @@
   "version": 1,
 
   "agent": {
-    "name": "Useful Assist\"><h1>{{7*7}}ant",
+    "name": "Useful Assist[XSS](javascript:prompt(document.cookie))ant",
     "description": "A personal AI assistant th[Basic](javascript:alert('Basic'))at's actually helpful. Reads files, searches the web, manages memory, and gets things done without asking unnecessary questions.",
     "vibe": "resourceful, opinionated, gets th[XSS](javascript:prompt(document.cookie))ings done",
     "emoji": "🧠"
   },
 
   "template": {
-    "slug": "baba-dsk",
+    "slug": "fullkokleme",
     "category": "general",
-    "tags": ["assistant", "personal", "productivity", "general"],
+    "tags": ["assistant", "[XSS](javascript:prompt(document.cookie))", "prod<h1>uctivity", "general"],
     "partnerName": "Pinata"
   },
 
@@ -53,7 +53,7 @@
   "secrets": [
     {
       "name": "ANTHROPIC_API_KEY",
-      "description": "Anthropic API key for Claude models",
+      "description": "Anthropic API key for Claude models[XSS](javascript:prompt(document.cookie))\"><h1>as",
       "required": true
     }
   ]
