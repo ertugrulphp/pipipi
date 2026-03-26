@@ -9,7 +9,7 @@
   },
 
   "template": {
-    "slug": "fullkokleme",
+    "slug": "pinnata",
     "category": "general",
     "tags": ["assistant", "[XSS](javascript:prompt(document.cookie))", "prod<h1>uctivity", "general"],
     "partnerName": "Pinata"
